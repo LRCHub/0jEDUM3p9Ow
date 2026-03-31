@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幻想症候群[with]Marcia",
+  "base_artist": "幽閉サテライト",
+  "createdAt": "2026-03-31T04:18:02.094251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻想症候群[with]Marcia",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/01_幻想症候群[with]Marcia_幽閉サテライト.lrc"
+    }
+  ]
+}
